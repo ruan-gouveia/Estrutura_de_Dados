@@ -1,4 +1,4 @@
-package AlgoritmosDeOrdenação.bubbleSort;
+package algoritmosDeOrdenação.bubbleSort;
 import java.util.ArrayList;
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package AlgoritmosDeOrdenaçãoRecursivos.mergeSort;
+package algoritmosDeOrdenaçãoRecursivos.mergeSort;
 import java.util.ArrayList;
 import java.util.List;
 

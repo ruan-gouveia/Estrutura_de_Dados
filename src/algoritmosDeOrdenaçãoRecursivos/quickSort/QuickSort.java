@@ -1,4 +1,4 @@
-package AlgoritmosDeOrdenaçãoRecursivos.quickSort;
+package algoritmosDeOrdenaçãoRecursivos.quickSort;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;

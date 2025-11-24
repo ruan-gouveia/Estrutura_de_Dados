@@ -1,4 +1,4 @@
-package AlgoritmosDeOrdenação.insertionSort;
+package algoritmosDeOrdenação.insertionSort;
 
 import java.util.ArrayList;
 import java.util.List;

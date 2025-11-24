@@ -1,4 +1,4 @@
-package AlgoritmosDeOrdenação.selectionSort;
+package algoritmosDeOrdenação.selectionSort;
 
 import java.util.ArrayList;
 import java.util.List;
