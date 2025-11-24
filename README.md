@@ -32,4 +32,4 @@ Por exemplo, para testar o Bubble Sort:
 # Compile o arquivo .java
 javac BubbleSort.java
 # Execute a classe principal
-java BubbleSort
+java BubbleSort 
